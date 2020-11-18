@@ -1,4 +1,3 @@
-abc
 # Migrating OpenGL Code to Metal
 
 Replace your app's deprecated OpenGL code with Metal.
